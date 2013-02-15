@@ -1,0 +1,8 @@
+---
+layout : post
+category : misc
+tags : [bad, yahoo, hacked, malware, phishing, trojan]
+---
+{% include JB/setup %}
+
+I had a Yahoo! ID for over 10 years and it was convinient to access emails and addresses online the first years. But then with the first redesign of the UI and me using Firefox on windows and Linux problems popped up all around.<br /><br />I then decided to tell new contacts only my new non-Y! email address and to gracefully fade Yahoo out ...<br /><span style="font-weight:bold;">Bad idea!</span><br />My account was hacked and all my long term and old contacts got trojan emails in my name linking to dozens of suspicious Wordpress-like-seeming pages.<br />I got hundreds of MAILER autoresponses (good to know those had a working SPAM blocker) but also family and friends asking why I started to advertise VIAGRA.<br /><br />I hereby honestly appologize to all readers you might have been spammed as well!<br />Please remove my yahoo address from your address book and contact me as PixelPartner.<br />I dropped all Yahoo! related stuff and hopefully in the next 90 days all will be removed.<br /><br />And obviously I changed password after making sure the URL is not a phishing site.<br />That's something I always do and explain to others / non-programmers in detail. So I'm very sure not to be a victim to phishing but a bruteforce hacking victim. <br /><span style="font-weight:bold;">That's why I finally left the Y! cloud</span>.
