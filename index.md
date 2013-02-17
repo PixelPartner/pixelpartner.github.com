@@ -13,9 +13,7 @@ tagline: Bringing stereo3D to mobile users
 
 <br/>
 
-<a href="http://vimeo.com/49552278">trueColor3D - Interview mit Thomas Kumlehn</a> from 
-<a href="http://vimeo.com/alxhrt">Alex Hartmann</a> on 
-<a href="http://vimeo.com">Vimeo</a>.
+[trueColor3D - Interview mit Thomas Kumlehn](http://vimeo.com/49552278) from [Alex Hartmann](http://vimeo.com/alxhrt)
    
 ## Recent posts
 
