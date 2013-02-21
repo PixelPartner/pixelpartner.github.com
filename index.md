@@ -138,9 +138,13 @@ tagline: Bringing stereo3D to mobile users
 ## Intro video
 ### This interview was made at the Campus Party 2012 in Berlin
 
-<iframe src="http://player.vimeo.com/video/49552278" width="500" height="281" frameborder="0" webkitAllowFullScreen="true" mozallowfullscreen="true" allowFullScreen="true">
-</iframe> <p/>
+<script type="text/javascript" src="http://s3.amazonaws.com/s3.www.universalsubtitles.org/embed.js">
+(
+  {"video_url": "http://vimeo.com/49552278"}
+)
+</script>
 
+<p/>
 <br/>
 
 [trueColor3D - Interview mit Thomas Kumlehn](http://vimeo.com/49552278) from [Alex Hartmann](http://vimeo.com/alxhrt)
